@@ -139,7 +139,7 @@ before next step and You must login.
     bench --version
     
 ### STEP 13 initilise the frappe bench & install frappe latest version 
-
+    sudo apt-get install python3.8-venv
     bench init frappe-bench --frappe-branch version-13
     
     cd frappe-bench/
